@@ -135,6 +135,7 @@
         android:layout_marginTop="56dp"
         android:layout_marginEnd="136dp"
         android:layout_marginRight="136dp"
+        android:onClick="temp"
         android:paddingHorizontal="20dp"
         android:text="login"
         android:textSize="25dp"

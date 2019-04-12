@@ -26,4 +26,9 @@ public class login extends AppCompatActivity {
         });
     }
 
+    public  void temp(View view){
+        Intent intent = new Intent(login.this, select_topic.class);
+        startActivity(intent);
+    }
+
 }
